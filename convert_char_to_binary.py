@@ -1,5 +1,6 @@
 ###########################################
 ## Objective: Convert a character to bit ##
+## Last Update: 03-04-2017 				 ##
 ###########################################
 
 #Get user input
